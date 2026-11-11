@@ -76,6 +76,10 @@
 
 ---
 
+### 📊 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Guzxx92&theme=tokyo-night&hide_border=true&area=true)
+
 <p align="center">
   <i>"Strategy in chess, creativity in art, logic in code."</i>
 </p>
