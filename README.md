@@ -1,6 +1,8 @@
 # Hi there, I'm Agus Anggara 👋
 
-> 🎯 **15-year-old Tech & Strategy Enthusiast** | Passionate about logical problem-solving, strategic thinking, and visual storytelling.
+> 🎯 **15-year-old Tech & Strategy Enthusiast**
+>
+> Passionate about logical problem-solving, strategic thinking, and visual storytelling.
 
 ---
 
@@ -24,17 +26,49 @@
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** `Python` • `JavaScript` • `HTML5` • `CSS3`
-- **Tools & Platforms:** `Git` • `GitHub` • `VS Code`
-- **Learning Goals:** Data Structures, Advanced Algorithms & Web Frameworks
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Currently Exploring
 
-![Agus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guzxx92&show_icons=true&theme=tokyonight&header_color=70a5fd&title_color=70a5fd&text_color=bf9eee&icon_color=70a5fd&bg_color=1a1b26&hide_border=true)
+- 🧩 **Data Structures & Algorithms**
+- 🌐 **Advanced Web Development**
+- ⚙️ **Software Architecture & Programming Concepts**
+- 🤖 **Artificial Intelligence**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guzxx92&layout=compact&theme=tokyonight&hide_border=true)
+---
+
+### 🎯 My Philosophy
+
+I believe that different disciplines can strengthen each other.
+
+- ♟️ Chess develops strategic thinking.
+- 💻 Coding develops logical thinking.
+- 🎨 Art develops creativity and attention to detail.
+
+Combining these skills helps me approach problems from different perspectives.
+
+---
+
+### 🌐 Find Me
+
+<p align="left">
+  <a href="https://github.com/Guzxx92">
+    <img src="https://img.shields.io/badge/GitHub-Guzxx92-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
