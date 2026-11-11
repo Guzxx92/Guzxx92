@@ -64,7 +64,6 @@
 | :--- | :--- | :--- |
 | ♟️ Chess Analyzer | Chess analysis with Stockfish engine. | JS, HTML, CSS |
 | 🤖 WhatsApp Bot | Custom WhatsApp bot with plugin system. | JavaScript, Bun |
-| 🎮 AI Roleplay | Interactive AI-powered roleplay experience. | Phaser, Vite |
 ---
 
 ### 🌐 Find Me
