@@ -1,31 +1,43 @@
-# Halo, Saya Agus Anggara 👋
+# Hi there, I'm Agus Anggara 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=agusanggaragithub&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
-Selamat datang di profil GitHub saya! Saya seorang remaja berusia 15 tahun yang memiliki ketertarikan tinggi di bidang teknologi, strategi, dan seni visual. 
+> 🎯 **15-year-old Tech & Strategy Enthusiast** | Passionate about logical problem-solving, strategic thinking, and visual storytelling.
 
 ---
 
-## 🚀 Tentang Saya
-* **Usia:** 15 Tahun
-* **IQ:** 133
-* **Hobi Utama:** 
-  * ♟️ **Catur:** Menikmati strategi mendalam, taktik, dan pemecahan masalah di atas papan catur.
-  * 💻 **Coding:** Senang mengeksplorasi bahasa pemrograman dan membangun berbagai proyek menarik.
-  * 🎨 **Menggambar Anime:** Menuangkan kreativitas dan imajinasi melalui ilustrasi bergaya anime.
+### 💡 About Me
+
+* 🧠 **IQ:** 133
+* 🎂 **Age:** 15 Years Old
+* 🎯 **Focus:** Algorithmic Problem Solving, Web & Software Development, Creative Arts
 
 ---
 
-## 🛠️ Minat & Keahlian Teknologi
-* **Bahasa Pemrograman:** Python, JavaScript, HTML/CSS, dll.
-* **Fokus Belajar:** Pemecahan masalah algoritmik, pengembangan web, dan kreativitas digital.
+### ♟️ Hobbies & Interests
+
+| Interest | Description |
+| :--- | :--- |
+| ♟️ **Chess** | Analyzing deep tactics, positional strategies, and spatial endgames. |
+| 💻 **Coding** | Building creative applications, exploring algorithms, and scripting. |
+| 🎨 **Anime Drawing** | Crafting character designs and digital illustration with precise aesthetics. |
 
 ---
 
-## 📈 Statistik GitHub
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** `Python` • `JavaScript` • `HTML5` • `CSS3`
+- **Tools & Platforms:** `Git` • `GitHub` • `VS Code`
+- **Learning Goals:** Data Structures, Advanced Algorithms & Web Frameworks
+
+---
+
+### 📈 GitHub Stats
+
+![Agus's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=agusanggara&show_icons=true&theme=tokyonight&header_color=70a5fd&title_color=70a5fd&text_color=bf9eee&icon_color=70a5fd&bg_color=1a1b26&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agusanggara&layout=compact&theme=tokyonight&hide_border=true)
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agusanggaragithub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <i>"Strategy in chess, creativity in art, logic in code."</i>
 </p>
