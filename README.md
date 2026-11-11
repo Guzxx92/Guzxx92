@@ -1,16 +1,31 @@
-## Hi there 👋
+# Halo, Saya Agus Anggara 👋
 
-<!--
-**Guzxx92/Guzxx92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=agusanggaragithub&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+Selamat datang di profil GitHub saya! Saya seorang remaja berusia 15 tahun yang memiliki ketertarikan tinggi di bidang teknologi, strategi, dan seni visual. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tentang Saya
+* **Usia:** 15 Tahun
+* **IQ:** 133
+* **Hobi Utama:** 
+  * ♟️ **Catur:** Menikmati strategi mendalam, taktik, dan pemecahan masalah di atas papan catur.
+  * 💻 **Coding:** Senang mengeksplorasi bahasa pemrograman dan membangun berbagai proyek menarik.
+  * 🎨 **Menggambar Anime:** Menuangkan kreativitas dan imajinasi melalui ilustrasi bergaya anime.
+
+---
+
+## 🛠️ Minat & Keahlian Teknologi
+* **Bahasa Pemrograman:** Python, JavaScript, HTML/CSS, dll.
+* **Fokus Belajar:** Pemecahan masalah algoritmik, pengembangan web, dan kreativitas digital.
+
+---
+
+## 📈 Statistik GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agusanggaragithub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
