@@ -1,4 +1,4 @@
-## Hello world, I'm Agus Anggara 👋
+## Hello, I'am Agus Anggara 👋
 
 > **15-year-old Tech & Strategy Enthusiast**
 > Passionate about logical problem-solving, strategic thinking, and visual storytelling.
