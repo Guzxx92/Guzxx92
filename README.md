@@ -32,9 +32,9 @@
 
 ### 📈 GitHub Stats
 
-![Agus's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=agusanggara&show_icons=true&theme=tokyonight&header_color=70a5fd&title_color=70a5fd&text_color=bf9eee&icon_color=70a5fd&bg_color=1a1b26&hide_border=true)
+![Agus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guzxx92&show_icons=true&theme=tokyonight&header_color=70a5fd&title_color=70a5fd&text_color=bf9eee&icon_color=70a5fd&bg_color=1a1b26&hide_border=true)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agusanggara&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guzxx92&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
