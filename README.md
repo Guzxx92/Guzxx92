@@ -50,15 +50,11 @@
 
 ---
 
-### 🎯 My Philosophy
+### 🧠 Beyond Coding
 
-I believe that different disciplines can strengthen each other.
-
-- ♟️ Chess develops strategic thinking.
-- 💻 Coding develops logical thinking.
-- 🎨 Art develops creativity and attention to detail.
-
-Combining these skills helps me approach problems from different perspectives.
+- ♟️ **Strategic Thinking:** Finding patterns and planning several moves ahead.
+- 🧩 **Problem Solving:** Breaking complex problems into simpler solutions.
+- 🎨 **Creative Thinking:** Turning ideas into visual concepts and experiences.
 
 ---
 ### 🏆 Featured Projects
