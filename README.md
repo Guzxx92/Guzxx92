@@ -1,4 +1,6 @@
-## Hii, I'am Agus Anggara 👋
+![Wow](./nyan.png)
+---
+## Hii, I'm Agus Anggara 👋
 
 > **15-year-old Tech & Strategy Enthusiast**
 > Passionate about logical problem-solving, strategic thinking, and visual storytelling.
@@ -49,7 +51,7 @@
 
 ---
 
-### 🧠 Beyond Coding
+### 🍓 Beyond Coding
 
 - ♟️ **Strategic Thinking:** Finding patterns and planning several moves ahead.
 - 🧩 **Problem Solving:** Breaking complex problems into simpler solutions.
@@ -70,6 +72,15 @@
 <p align="left">
   <a href="https://github.com/Guzxx92">
     <img src="https://img.shields.io/badge/GitHub-Guzxx92-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://wa.me/6283123448708">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://t.me/username">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@Guzxx92">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
