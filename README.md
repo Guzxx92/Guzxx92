@@ -61,6 +61,14 @@ I believe that different disciplines can strengthen each other.
 Combining these skills helps me approach problems from different perspectives.
 
 ---
+### 🏆 Featured Projects
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| ♟️ Chess Analyzer | Chess analysis with Stockfish engine. | JS, HTML, CSS |
+| 🤖 WhatsApp Bot | Custom WhatsApp bot with plugin system. | JavaScript, Bun |
+| 🎮 AI Roleplay | Interactive AI-powered roleplay experience. | Phaser, Vite |
+---
 
 ### 🌐 Find Me
 
