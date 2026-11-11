@@ -73,5 +73,4 @@
   </a>
 </p>
 
----
-Since 2026, just a man obsession with music
+Since 2026, just a man have an obsession with music
